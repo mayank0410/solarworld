@@ -189,7 +189,7 @@ section .color:nth-child(3) {
     height: 200px;
     border-radius: 50%;
     transform-style: preserve-3d;
-    animation: anim 20s linear infinite;
+    animation: anim 10s linear infinite;
 }
 @keyframes anim {
     0% {
